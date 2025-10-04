@@ -214,7 +214,7 @@ namespace VendingMachine
                 Console.WriteLine("0. Выход");
                 Console.Write("Выберите действие: ");
 
-                string choice = Console.ReadLine();
+                string? choice = Console.ReadLine();
                 
                 bool isContinue = true;
                 bool shouldContinue = isContinue;
@@ -310,5 +310,10 @@ namespace VendingMachine
                 Console.WriteLine($"Собрано {totalMoney} руб.");
             }
         }
+
+        // Методы для тестирования
+        public decimal GetTotalInserted() => totalInserted;
+        public List<Product> GetProducts() => products;
+        public Product? GetProductByCode(int code) => products.FirstOrDefault(p => p.Code == code);
     }
 }
