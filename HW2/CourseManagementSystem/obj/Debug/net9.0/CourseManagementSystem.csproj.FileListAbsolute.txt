@@ -1,0 +1,14 @@
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/bin/Debug/net9.0/CourseManagementSystem
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/bin/Debug/net9.0/CourseManagementSystem.deps.json
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/bin/Debug/net9.0/CourseManagementSystem.runtimeconfig.json
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/bin/Debug/net9.0/CourseManagementSystem.dll
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/bin/Debug/net9.0/CourseManagementSystem.pdb
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.AssemblyInfoInputs.cache
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.AssemblyInfo.cs
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.csproj.CoreCompileInputs.cache
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.dll
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/obj/Debug/net9.0/refint/CourseManagementSystem.dll
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.pdb
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/obj/Debug/net9.0/CourseManagementSystem.genruntimeconfig.cache
+/home/oleg/Documents/OP/Lab2/CourseManagementSystem/obj/Debug/net9.0/ref/CourseManagementSystem.dll

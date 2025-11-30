@@ -1,0 +1,11 @@
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/bin/Debug/net9.0/DeliveryOrderSystem.deps.json
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/bin/Debug/net9.0/DeliveryOrderSystem.dll
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/bin/Debug/net9.0/DeliveryOrderSystem.pdb
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/obj/Debug/net9.0/DeliveryOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/obj/Debug/net9.0/DeliveryOrderSystem.AssemblyInfoInputs.cache
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/obj/Debug/net9.0/DeliveryOrderSystem.AssemblyInfo.cs
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/obj/Debug/net9.0/DeliveryOrderSystem.csproj.CoreCompileInputs.cache
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/obj/Debug/net9.0/DeliveryOrderSystem.dll
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/obj/Debug/net9.0/refint/DeliveryOrderSystem.dll
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/obj/Debug/net9.0/DeliveryOrderSystem.pdb
+/home/oleg/Documents/OP/Lab4/DeliveryOrderSystem/obj/Debug/net9.0/ref/DeliveryOrderSystem.dll
